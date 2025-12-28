@@ -64,7 +64,7 @@ Our goal is not just to *make games*, but to **design complete game systems** �
 
 | Name | Focus |
 |-----|------|
-| **Daffa Farras Putra Tarigan** | Rust · Go · Python · TypeScript · Unity |
+| **Daffa Farras Putra Tarigan** | System Integrator · Rust · Go · Python · TypeScript · Unity |
 | **Mohammad Ezzeddin Pratama** | React |
 | **Raisya Putri Agustine** | React |
 | **Paulus Billiardo Putra Kedua** | React · Unity |
